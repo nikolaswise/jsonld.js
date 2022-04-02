@@ -1,5 +1,8 @@
 # jsonld ChangeLog
 
+### Fixed
+- compact t0111 test: "Keyword-like relative IRIs"
+
 ### Added
 - Support benchmarks in Karma tests.
 - Support test environment in EARL output.
